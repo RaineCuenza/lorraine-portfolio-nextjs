@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c9dfd6"/><stop offset="1" stop-color="#d7cae4"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="url(#g)"/>
+<circle cx="936" cy="160" r="96" fill="white" opacity=".22"/>
+<circle cx="216" cy="624" r="128" fill="white" opacity=".18"/>
+<path d="M0 576 C 300 455, 672 736, 1200 528 L 1200 800 L 0 800 Z" fill="white" opacity=".12"/>
+<text x="50%" y="48%" text-anchor="middle" fill="#554568" font-family="Georgia, serif" font-size="44" font-weight="600">SIT</text>
+<text x="50%" y="55%" text-anchor="middle" fill="#625b66" font-family="Arial, sans-serif" font-size="20" letter-spacing="2">MAIN EVENT PHOTO</text>
+</svg>
