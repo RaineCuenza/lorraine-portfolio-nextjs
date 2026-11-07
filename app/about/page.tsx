@@ -22,7 +22,7 @@ export default function AboutPage() {
         <div className="container">
           <div className="section-heading reveal"><div><p className="eyebrow"><span></span> My timeline</p><h2>Growing through every chapter</h2></div><p>A simple timeline you can update as your story continues.</p></div>
           <div className="timeline">
-            <article className="timeline-item reveal"><span>2022</span><div><h3>Started my BS Information Technology journey</h3><p>Built my foundation in technology, programming, and digital problem-solving.</p></div></article>
+            <article className="timeline-item reveal"><span>2023</span><div><h3>Started my BS Information Technology journey</h3><p>Built my foundation in technology, programming, and digital problem-solving.</p></div></article>
             <article className="timeline-item reveal"><span>2024–2025</span><div><h3>Leadership and academic growth</h3><p>Expanded my involvement in school activities, projects, and student leadership experiences.</p></div></article>
             <article className="timeline-item reveal"><span>2026</span><div><h3>A year of new roles and experiences</h3><p>Balanced front-end projects, student leadership, events, pageant experiences, and personal growth.</p></div></article>
           </div>
